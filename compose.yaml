@@ -36,3 +36,6 @@ services:
 
 #volumes:
   #database:
+  docker init
+  docker init
+  
